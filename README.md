@@ -1,6 +1,6 @@
 # Vehicle Broadcast
 
-In this era of connected cars and motorcycles, you can gather valuable information from vehicles broadcasting their Wi-Fi hotspots and BLE connections. Feel free to contribute your findings and help expand the knowledge base."
+In this era of connected cars and motorcycles, you can gather valuable information from vehicles broadcasting their Wi-Fi hotspots and BLE connections. Feel free to contribute your findings and help expand the knowledge base.
 
 | Brand | SSID | Tech | Mac Prefix | Notes |
 | ----- | ---- | ---- | ---------- | ----- |
