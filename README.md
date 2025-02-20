@@ -11,6 +11,8 @@ In this era of connected cars and motorcycles, you can gather valuable informati
 | Citroen | Citroen XXXXX | WIFI | 9E:8D:7C, B6:EC:02 | |
 | CUPRA | My CUPRA XXXX | WIFI | A2:CD:F3, DE:FE:23, EA:4F:25 | |
 | Ford | HotspotXXXX | WIFI | 00:54:AF | Last 4 characters from SSID are the last 2 bytes from the MAC Address | 
+| Mercedez-Benz | MB Hotspot XXXXX 2.4 GHz | WIFI | D4:53:83, BC:75:36, 74:95:EC, 48:F0:7B, BC:42:8C, 30:C3:D9, B4:EC:02, 58:16:D7 | |
+| Mercedez-Benz | DIRECT-MB Hotspot XXXXX | WIFI | 2E:DC:AD, BA:9F:09 | |
 | Mini | MINIXXXXX CarPlay | WIFI | 58:7A:62, 58:2B:0A, 78:DB:2F, E0:92:8F, 2C:AB:33, 00:35:FF, 94:A9:A8, C4:F3:12, 74:6F:F7, 18:45:16 | Last 5 SSID digits are the last 5 digits from vehicle VIN |
 | Porsche | Porsche_WLAN_XXXX | WIFI | 5A:6A:0A, 10:98:C3, 74:6F:F7, 2C:DC:AD, 44:E4:EE, 44:91:60, D6:29:83, 8C:45:00, 2E:26:C6 | |
 | SEAT | My SEAT XXXX | WIFI | EA:4F:25, D2:40:EF, 1A:48:CA | CUPRA, SEAT, SKODA and VW seems to share the same MAC Prefix which in fact its normal since they're all part of the same group.|
