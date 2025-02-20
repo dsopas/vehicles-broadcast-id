@@ -11,4 +11,4 @@ In this era of connected cars and motorcycles, you can gather valuable informati
 | Ford | HotspotXXXX | WIFI | 00:54:AF | Last 4 characters from SSID are the last 2 bytes from the Mac Address | 
 
 # Disclaimer
-This information is only for educational purposes only. The author is not responsible for any misuse present on this repository. 
+This information is provided for educational purposes only. The author is not responsible for any misuse of the content in this repository.
